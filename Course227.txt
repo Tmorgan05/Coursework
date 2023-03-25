@@ -1,0 +1,89 @@
+
+                           Personal Integrity and Honesty
+
+Accountability / Deadlines
+(answers)
+
+1.  The assignment was submitted after the deadline.
+2.  The student should have submitted the assignment by the due although it may not have been completed.
+3.  Not submitting the assignment by the due date may cause delays and setbacks to the procession of the course and student's (and students') progress.  
+
+
+Attendance 
+(answers)
+
+1.  Yes.
+2.  He should attempt to work with the supervisor and HR to workout an amicable solution.  He should notify his Instructional Team and AMAS.
+3.  Leave work early or be late for class.
+
+
+Plagiarism / Ethical Coding
+(answers)  
+
+1.  He copied and used someone else's work.
+2.  No.  Lacks integrity.
+3.  Never.  Never.
+4.  Reach out to peers.
+5.  I affects trust and integrity.
+
+
+                           Trust the Process and the Results
+
+Camera Policy
+(answers)  
+
+1.  By turning off his camera.
+2.  Notified the instructor with any concerns neccesary for turning off the camera.
+3.  It may be okay for a student to have his/her camera off if approved.  
+4.  Notify the instructor or AMAS.
+
+ 
+                                Respect Fellow Learners
+
+Respect the Integrity of Faculty and Staff
+(answers)  
+
+1.  Using FSA's applications to converse with a peer and undermine the instructors credentials.  
+2.  No.  He used class time to interrupt a peer's learning opportunity and undermine the instructor.  The student could have readdressed the issue with the instructor one-on-one or reached out to the AMAS, then escalate if neccesary.  
+3.  No.  The assistant manager.
+4.  Not sure.
+5.  It could result in a loss of respect for the instructor's ability to teach.
+
+
+Respect the Integrity of Other Applicants and Fellow Learners.
+(answers) 
+
+1.  Interrupting his time to speak.
+2.  Redirect the focus back on Avinash's time to share.
+3.  No.  She became too personal.  
+4.  It may cause unneccesary unwanted attention.
+
+
+                             Personal Integrity and Honesty
+
+Consistency, Grit, and Resilience
+1.  Thought she knew everything, then got overwhelmed.
+2.  SSM
+3.  When feeling a decline in confidence and or competence.
+4.  Not giving up.
+
+
+                           Trust the Process and the Results
+
+Adapting to Change
+(answers)
+
+1.  Embrace change.
+2.  Trust that the replacements are in their positions because of their capabilities.
+3.  Schedule some one-on-one time to gain a comfort level.
+4.  The assistant manager.
+
+
+Module 3    March 6
+Folders end with /
+Files end with ".xxx"
+Root - Folders that contain all other folders.
+"/" denotes the root.
+relative path - starts where you are.
+absolute path - starts at the root and is denoted by /.
+If a path contains spaces, the path is enclosed with quatation marks.  "/bbq/meat  burger.ext"
