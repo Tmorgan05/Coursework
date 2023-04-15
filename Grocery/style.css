@@ -1,0 +1,66 @@
+
+
+#pantry { 
+    
+    display: flex;
+    color: brown;
+    width: 150px; height: 20px; padding: 10px; /*set padding for all four sides */ 
+    border: 3px solid black; /* set border for all four sides */; 
+    margin: 20px; /* set top and bottom margin to 20 pixels and left and right to margin to auto */
+    left: 20 px
+    
+}
+
+#can {
+    
+    background-color: grey;
+    width: 150px; height: 180px; padding: 10px; /*set padding for all four sides */ 
+    border: 1px solid black; /* set border for all four sides */; 
+    margin: 10px; /* set top and bottom margin to 20 pixels and left and right to margin to auto */
+    left: 20 px
+}
+ 
+#dg {
+    
+    background-color: grey;
+    width: 150px; height: 180px; padding: 10px; /*set padding for all four sides */ 
+    border: 1px solid black; /* set border for all four sides */; 
+    margin: 10px; /* set top and bottom margin to 20 pixels and left and right to margin to auto */
+    left: 20 px
+}
+
+
+
+#frz { 
+    
+    display: flex;  
+    color: blue;
+    width: 150px; height: 20px; padding: 10px; /*set padding for all four sides */ 
+    border: 3px solid black; /* set border for all four sides */; 
+    margin-top: 20px; /* set top and bottom margin to 20 pixels and left and right to margin to auto */
+    left: 20 px
+    
+}
+
+#veg1 {
+    
+    background-color: grey;
+    width: 150px; height: 180px; padding: 10px; /*set padding for all four sides */ 
+    border: 1px solid black; /* set border for all four sides */; 
+    margin: 10px; /* set top and bottom margin to 20 pixels and left and right to margin to auto */
+    left: 20 px
+}
+
+#snk {
+    
+    background-color: grey;
+    width: 150px; height: 180px; padding: 10px; /*set padding for all four sides */ 
+    border: 1px solid black; /* set border for all four sides */; 
+    margin: 10px; /* set top and bottom margin to 20 pixels and left and right to margin to auto */
+    left: 20 px
+
+}
+
+b {
+    color: green;
+}
